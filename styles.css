@@ -17,5 +17,15 @@
 }
 
 /* Nav start */
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(132, 132, 132);
+}
+
+ul li{
+    list-style: none;
+}
 
 /*nav end */
