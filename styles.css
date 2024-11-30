@@ -54,4 +54,11 @@ ul li a{
     justify-content: center;
     width: 40%;
 }
+
+.header_heading{
+    width: 70%;
+    font-family: var(--secondary-font);
+    color: rgb(82, 82, 82);
+    margin: 20px 0;
+}
 /*section one end*/
