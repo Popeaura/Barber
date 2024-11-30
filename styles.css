@@ -37,3 +37,13 @@ ul li a{
 }
 
 /*nav end */
+
+/*section one start*/
+.content_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+/*section one end*/
