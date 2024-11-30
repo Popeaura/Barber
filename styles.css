@@ -46,4 +46,12 @@ ul li a{
     align-items: center;
     height: 80vh;
 }
+
+.header_content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+}
 /*section one end*/
