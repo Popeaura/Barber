@@ -56,6 +56,11 @@ ul li a{
 }
 
 .header_heading{
+  font-size: 4rem;
+  font-family: var(--main-font);  
+}
+
+.header_subheadings{
     width: 70%;
     font-family: var(--secondary-font);
     color: rgb(82, 82, 82);
