@@ -20,12 +20,20 @@
 .nav{
     display: flex;
     justify-content: space-around;
+    padding: 30px;
     align-items: center;
-    background-color:rgb(132, 132, 132);
 }
 
 ul li{
     list-style: none;
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+    margin: 10px;
+    color: #000;
+    font-family: var(--secondary-font);
 }
 
 /*nav end */
