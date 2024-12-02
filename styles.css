@@ -122,4 +122,16 @@ ul li a {
 /*Experience section end */
 
 /*social media start */
+.social-media{
+  margin: 5rem;
+}
+
+.sm-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10rem;
+}
 /*social media end */
