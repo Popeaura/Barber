@@ -110,4 +110,13 @@ ul li a {
   margin-left:50px ;
 }
 
+.gray-heading{
+  color: gray;
+  font-family: var(--main-font);
+}
+
+.btn-container{
+  margin-top: 30px;
+}
+
 /*Experience section end */
