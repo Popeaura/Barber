@@ -92,5 +92,14 @@ ul li a {
 /* End of Header Section */
 
 /* Experience section  start*/
+.experience{
+  height: 90vh;
+  margin-left: 5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+}
 
 /*Experience section end */
