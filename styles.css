@@ -145,7 +145,7 @@ ul li a {
   text-align: center;
 }
 /*social media end */
-
+/* hero start */
 .hero{
   height: 100vh;
   display: flex;
@@ -176,3 +176,4 @@ ul li a {
 .hero-content{
   margin-left: 6rem;
 }
+/*hero end */
