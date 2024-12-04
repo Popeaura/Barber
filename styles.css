@@ -121,7 +121,7 @@ ul li a {
 
 /*Experience section end */
 
-/*social media start */
+/*social media section start */
 .social-media{
   margin: 5rem;
 }
@@ -144,8 +144,8 @@ ul li a {
   margin-right: 3rem;
   text-align: center;
 }
-/*social media end */
-/* hero start */
+/*social media section end */
+/* hero section  start */
 .hero{
   height: 100vh;
   display: flex;
@@ -176,4 +176,4 @@ ul li a {
 .hero-content{
   margin-left: 6rem;
 }
-/*hero end */
+/*hero section end */
