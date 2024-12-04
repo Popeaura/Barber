@@ -145,3 +145,10 @@ ul li a {
   text-align: center;
 }
 /*social media end */
+
+.hero{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
