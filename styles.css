@@ -162,7 +162,7 @@ ul li a {
 }
 
 .hero-img-container{
-  background: url(https://i.pinimg.com/236x/d4/66/3b/d4663b464c06b7012937ca40865c6889.jpg);
+  background: url(https://i.pinimg.com/236x/14/ea/f4/14eaf4052718e346060952d62a83aca5.jpg);
   background-size: cover;
   background-position: top;
   width: 300px;
@@ -171,5 +171,8 @@ ul li a {
 
 .hero_sub-headings{
   width: 400px;
+}
 
+.hero-content{
+  margin-left: 6rem;
 }
