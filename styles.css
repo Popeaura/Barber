@@ -162,9 +162,14 @@ ul li a {
 }
 
 .hero-img-container{
-  background: url();
+  background: url(https://i.pinimg.com/236x/d4/66/3b/d4663b464c06b7012937ca40865c6889.jpg);
   background-size: cover;
   background-position: top;
   width: 300px;
   height: 400px;
+}
+
+.hero_sub-headings{
+  width: 400px;
+
 }
