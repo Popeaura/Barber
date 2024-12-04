@@ -200,15 +200,19 @@ ul li a {
 
 .card {
   width: 300px;
-  height: 400px;
+  height: 600px;
   position: relative;
   box-shadow: 1px 1px 1px 1px rgb(223, 223, 223);
   margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* Pushes the content to the bottom */
+  overflow: hidden;
 }
 
 .card-img {
   width: 100%;
-  height: 200px;
+  height: 400px;
   position: absolute;
   top: 0;
   left: 0;
@@ -227,9 +231,10 @@ ul li a {
 }
 
 .card-content {
-  transform: translateY(200px);
+  transform: translate (200px); 
   text-align: center;
   margin: 10px;
+  position: relative;
 }
 
 .card-title {
