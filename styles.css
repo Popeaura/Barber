@@ -134,4 +134,14 @@ ul li a {
   text-align: center;
   margin-top: 10rem;
 }
+
+.follow{
+  padding: 20px;
+  background: var(--main-color);
+  color: #fff;
+  font-family: var(--secondary-font);
+  font-weight: bold;
+  margin-right: 3rem;
+  text-align: center;
+}
 /*social media end */
