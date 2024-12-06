@@ -257,6 +257,14 @@ ul li a {
   background: var(--main-color);
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  height: 50vh;
+  margin-top: 10rem;
 }
 
+.footer_card-title{
+  
+}
 /* Footer section End */
