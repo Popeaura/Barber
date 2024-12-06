@@ -252,7 +252,11 @@ ul li a {
 }
 /* Services Section End */
 
-/* Footer start */
+/* Footer section  start */
+.footer{
+  background: var(--main-color);
+  display: flex;
+  justify-content: space-around;
+}
 
-
-/* Footer End */
+/* Footer section End */
