@@ -265,6 +265,13 @@ ul li a {
 }
 
 .footer_card-title{
-  
+  font-family: var(--main-font);
+}
+
+.footer_card-info{
+  font-family: var(--secondary-font);
+  line-height: 2rem;
 }
 /* Footer section End */
+
+/* Media Queries */
