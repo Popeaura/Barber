@@ -284,5 +284,17 @@ ul li a {
   .header__img-container{
     display: none;
   }
+
+  .experience{
+    height: 100vh;
+    margin:0 auto ;
+    text-align: center;
+  }
+
+  .experience_sub-headings{
+    text-align: center;
+    margin: 0 auto;
+
+  }
   
 }
