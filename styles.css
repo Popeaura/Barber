@@ -296,5 +296,24 @@ ul li a {
     margin: 0 auto;
 
   }
+
+  .btn-container{
+    margin-top: 30px;
+    margin-bottom: 3.5rem;
+  }
+
+  .follow{
+    display: none;
+  }  
+
+  .sm-container{
+    flex-direction: column;
+  }
   
-}
+  .list-items{
+    margin: 10px;
+  }
+
+
+  }
+  
